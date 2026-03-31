@@ -41,3 +41,12 @@ This project connects to the **CoinMarketCap API**, extracts live cryptocurrency
 - API integration and Python data cleaning  
 - Advanced Tableau visualization and storytelling  
 - Professional documentation and version control in GitHub
+
+## 📞 Hire Me
+Interested in dashboards like this for your business?  
+You can hire me on Fiverr: [Karthikeyan on Fiverr](https://www.fiverr.com/sellers/karthikeyang756/)
+
+I specialize in:
+- Python data cleaning and validation
+- Tableau dashboard design with recruiter-ready storytelling
+- End-to-end workflow: API → Python → Tableau → GitHub → Case Study
