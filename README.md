@@ -25,7 +25,7 @@ This project connects to the **CoinMarketCap API**, extracts live cryptocurrency
 - Others highlight niche growth opportunities  
 
 ## 🔗 How to View
-- **Interactive Dashboard**: [Tableau Public Link]  
+- **Interactive Dashboard**: [[Tableau Public Link](https://public.tableau.com/app/profile/karthikeyan.govindaraj/viz/cryptodashboard_17749399045640/Story1?publish=yes)]  
 - **Screenshots**:  
   ![Dashboard Screenshot 1](screenshot1.png)  
   ![Dashboard Screenshot 2](screenshot2.png)  
