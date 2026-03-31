@@ -31,7 +31,7 @@ This project connects to the **CoinMarketCap API**, extracts live cryptocurrency
   ![Dashboard Screenshot 2](screenshot2.png)  
 
 ## 🎥 Demo Video
-- Walkthrough recording: [Link to video]  
+- Walkthrough recording: [(https://github.com/Karthikeyan00045/crypto-market-insights/blob/main/Recording%202026-03-31%20122554.mp4)]  
 - Explains grouping logic, scenario analysis, and recruiter-facing insights  
 
 ## ⚙️ Workflow Summary
